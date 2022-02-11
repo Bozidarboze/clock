@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="200.000000pt" height="200.000000pt" viewBox="0 0 200.000000 200.000000"
+ preserveAspectRatio="xMidYMid meet">
+<g transform="translate(0.000000,200.000000) scale(0.100000,-0.100000)"
+fill="#fff" stroke="none">
+<path d="M460 1005 c0 -195 3 -355 8 -355 15 1 535 345 535 354 -1 8 -527 356
+-539 356 -2 0 -4 -160 -4 -355z"/>
+<path d="M1120 1000 l0 -361 78 3 77 3 3 358 2 357 -80 0 -80 0 0 -360z"/>
+<path d="M1380 1000 l0 -361 78 3 77 3 3 358 2 357 -80 0 -80 0 0 -360z"/>
+</g>
+</svg>
