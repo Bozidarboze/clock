@@ -1,0 +1,40 @@
+.length-control {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+
+  .length-controls {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+
+    .up-arrow {
+      background: url("../../icons/up-arrow.svg");
+      background-size: 100%;
+      background-color: rgba(0, 0, 0, 0.75);
+      width: 40px;
+      height: 40px;
+    }
+
+    .down-arrow {
+      background: url("../../icons/down-arrow.svg");
+      background-size: 100%;
+      background-color: rgba(0, 0, 0, 0.75);
+      width: 40px;
+      height: 40px;
+    }
+
+    .btn {
+      transition: opacity 250ms;
+      @media screen and (min-width: 900px) {
+        &:hover {
+          opacity: 0.8;
+        }
+      }
+    }
+  }
+}
